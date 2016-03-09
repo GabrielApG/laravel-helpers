@@ -1,0 +1,17 @@
+{
+    "name": "drbyte/laravel-helpers",
+    "description": "Helper functions that make my development easier",
+    "version": "0.1-alpha",
+    "keywords": ["laravel"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "files": [
+            "src/helper_functions.php"
+        ]
+    },
+    "minimum-stability": "stable"
+}
